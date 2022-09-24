@@ -1,0 +1,10 @@
+PLANNING.txt
+.venv/
+env/
+venv/
+
+_dumps/
+__pycache__
+
+config.yml
+config.yaml
