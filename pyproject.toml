@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-aiohttp = "^3.8.3"
+aiohttp = "^3.8.5"
 APScheduler = "^3.9.1"
 aiosqlite = "^0.17.0"
 PyYAML = "^6.0"
